@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+  <html>
+    <tête>
+       <meta charset="utf-8">
+       <title>Hello Word-Exemple de fantaisie</title>
+       <link rel="feuille de style" herf="helloworldfancy.css">
+    </head>
+    </corps>
+       </h1>Bonjour,<span id="name"></span></h1>
+       <input type="soummettre" value="Dite bonjour" id="bouton">
+       <script type="application/dart" src="helloworldfancy.dart"></script>
+       <script src="package/brower/dart.js"></script>
+    </body>
+  </html>     
